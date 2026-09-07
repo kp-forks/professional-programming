@@ -757,6 +757,10 @@ See also the Writing section
   - Don’t challenge your own data
 - 📖 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), O'Reilly
 
+### Data semantics
+
+- [Making Your Data Ready for Agentic AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html), martinfowler.com
+
 ### Databases
 
 See also the SQL section.
